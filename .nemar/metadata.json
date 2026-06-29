@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "dataset_id": "on006914",
-  "source": "openneuro",
-  "source_id": "ds006914",
+  "pipeline_stage": "validated",
   "title": "Visual Naming EC",
+  "license": "CC0",
+  "dataset_type": "raw",
   "authors": {
     "Ryuzaburo Kochi": {},
     "Aya Kanno": {},
@@ -16,26 +16,64 @@
     "Aimee F. Luat": {},
     "Eishi Asano": {}
   },
-  "license": "CC0",
-  "dataset_type": "raw",
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds006914.v1.0.3",
       "identifier_type": "DOI",
-      "relation_type": "IsIdenticalTo"
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/on006914",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/on006914",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
     }
-  ],
-  "pipeline_stage": "seeded",
-  "bids_version": "1.7.0",
-  "recording_modality": [
-    "ieeg"
-  ],
-  "datatypes": [
-    "ieeg"
   ],
   "funding_references": [
     {
       "funder_name": "N/A"
     }
-  ]
+  ],
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "18.8 GB (354 files)"
+  ],
+  "formats": [
+    ".edf",
+    ".json",
+    ".md",
+    ".tsv",
+    ".yml"
+  ],
+  "description": "This dataset comprises intracranial EEG recordings from 110 individuals performing a visual-naming task. Electrode coordinates are provided in MNI-305 stereotactic space. The dataset includes event markers for stimulus onset and response onset, enabling analysis of neural dynamics during language production and visual processing.",
+  "methods_description": "Intracranial EEG recordings were acquired during a visual-naming task. Event codes mark stimulus onset (401) and response onset (501). Electrode coordinates are registered to MNI-305 space.",
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "visual naming"
+    },
+    {
+      "term": "language production"
+    },
+    {
+      "term": "electrocorticography"
+    },
+    {
+      "term": "neural connectivity"
+    },
+    {
+      "term": "speech"
+    }
+  ],
+  "source_hash": "b61ca68d603c789f369bd0653d96bc0eeb268ea0c2f8819bcc13923c28908d60"
 }
