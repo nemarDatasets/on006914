@@ -1,32 +1,38 @@
 {
-    "Name": "Visual Naming EC",
-    "BIDSVersion": "1.7.0",
-    "DatasetType": "raw",
-    "License": "CC0",
-    "Authors": [
-        "Ryuzaburo Kochi",
-        "Aya Kanno",
-        "Hiroshi Uda",
-        "Keisuke Hatano",
-        "Masaki Sonoda",
-        "Hidenori Endo",
-        "Michael Cools",
-        "Robert Rothermel",
-        "Aimee F. Luat",
-        "Eishi Asano"
-    ],
-    "Acknowledgements": "",
-    "HowToAcknowledge": "N/A",
-    "Funding": [
-        "N/A"
-    ],
-    "EthicsApprovals": [
-        "IRB of Wayne State University"
-    ],
-    "ReferencesAndLinks": [
-        "",
-        "",
-        ""
-    ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds006914.v1.0.3"
+  "Name": "Visual Naming EC",
+  "BIDSVersion": "1.7.0",
+  "DatasetType": "raw",
+  "License": "CC0",
+  "Authors": [
+    "Ryuzaburo Kochi",
+    "Aya Kanno",
+    "Hiroshi Uda",
+    "Keisuke Hatano",
+    "Masaki Sonoda",
+    "Hidenori Endo",
+    "Michael Cools",
+    "Robert Rothermel",
+    "Aimee F. Luat",
+    "Eishi Asano"
+  ],
+  "Acknowledgements": "",
+  "HowToAcknowledge": "N/A",
+  "Funding": [
+    "N/A"
+  ],
+  "EthicsApprovals": [
+    "IRB of Wayne State University"
+  ],
+  "ReferencesAndLinks": [
+    "",
+    "",
+    ""
+  ],
+  "DatasetDOI": "10.82901/nemar.on006914",
+  "SourceDatasets": [
+    {
+      "DOI": "doi:10.18112/openneuro.ds006914.v1.0.3"
+    }
+  ],
+  "Version": "1.0.0"
 }
