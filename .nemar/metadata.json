@@ -2,6 +2,8 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Visual Naming EC",
+  "description": "This dataset contains intracranial EEG recordings from 110 individuals who performed a visual-naming task, with electrode coordinates provided in MNI-305 space. It was collected to support analyses of effective connectivity underlying speech and language processing, as reported by Kochi et al. (2025). Each recording is annotated with event codes marking stimulus and response onsets.",
+  "methods_description": "Intracranial EEG was recorded from 110 subjects performing a visual-naming task. Each EDF file includes event codes marking stimulus onset (401) and response onset (501). Electrode coordinates were localized in MNI-305 standardized space.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
@@ -16,6 +18,28 @@
     "Aimee F. Luat": {},
     "Eishi Asano": {}
   },
+  "keywords": [
+    {
+      "term": "intracranial EEG"
+    },
+    {
+      "term": "visual naming"
+    },
+    {
+      "term": "effective connectivity"
+    },
+    {
+      "term": "speech"
+    },
+    {
+      "term": "electrode localization"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.18112/openneuro.ds006914.v1.0.3",
@@ -39,10 +63,10 @@
     }
   ],
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
     "18.8 GB (354 files)"
   ],
@@ -52,28 +76,6 @@
     ".md",
     ".tsv",
     ".yml"
-  ],
-  "description": "This dataset comprises intracranial EEG recordings from 110 individuals performing a visual-naming task. Electrode coordinates are provided in MNI-305 stereotactic space. The dataset includes event markers for stimulus onset and response onset, enabling analysis of neural dynamics during language production and visual processing.",
-  "methods_description": "Intracranial EEG recordings were acquired during a visual-naming task. Event codes mark stimulus onset (401) and response onset (501). Electrode coordinates are registered to MNI-305 space.",
-  "keywords": [
-    {
-      "term": "intracranial EEG"
-    },
-    {
-      "term": "visual naming"
-    },
-    {
-      "term": "language production"
-    },
-    {
-      "term": "electrocorticography"
-    },
-    {
-      "term": "neural connectivity"
-    },
-    {
-      "term": "speech"
-    }
   ],
   "source_hash": "b61ca68d603c789f369bd0653d96bc0eeb268ea0c2f8819bcc13923c28908d60"
 }
