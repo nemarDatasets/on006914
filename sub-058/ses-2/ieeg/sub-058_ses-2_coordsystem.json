@@ -1,7 +1,6 @@
 {
-  "iEEGCoordinateSystem":"Other",
-  "iEEGCoordinateSystemDescription":"Post-implant CT coregistered to pre-implant MRI in patient-native RAS orientation.",
-  "iEEGCoordinateUnits":"mm",
-  "iEEGCoordinateProcessingDescription":"Post-implant CT and pre-implant MRI were aligned using rigid-body registration without scaling. The accuracy of coregistration was confirmed by visual inspection.",
-  "iEEGCoordinateProcessingReference":"n/a"
+  "iEEGCoordinateSystem": "fsaverage",
+  "iEEGCoordinateUnits": "mm",
+  "iEEGCoordinateSystemDescription": "FreeSurfer fsaverage template, mm (surface RAS of fsaverage, whose volumetric frame is FreeSurfer's MNI305 space). This deposit's README calls the space MNI-305; inferred from the coordinates: every contact's x/y/z equals a vertex of the fsaverage pial surface (within 0.001 mm), consistent with FreeSurfer surface-based normalization of subdural contacts.",
+  "iEEGCoordinateProcessingDescription": "Post-implant CT and pre-implant MRI were aligned using rigid-body registration without scaling. The accuracy of coregistration was confirmed by visual inspection. Electrode coordinates were then transformed into the FreeSurfer standard brain space."
 }
