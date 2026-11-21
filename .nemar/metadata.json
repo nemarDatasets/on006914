@@ -2,39 +2,60 @@
   "version": "2.0",
   "pipeline_stage": "validated",
   "title": "Visual Naming EC",
-  "description": "This dataset contains intracranial EEG (iEEG) recordings from 110 individuals performing a visual naming task. Electrode coordinates are provided in MNI-305 space, and events mark stimulus onset and response onset. The data were used in an analysis of whole-brain, millisecond-scale effective connectivity atlases of speech.",
-  "methods_description": "Intracranial EEG was recorded from 110 subjects performing a visual-naming task. Each EDF file includes event codes marking stimulus onset (401) and response onset (501). Electrode coordinates were localized in MNI-305 standardized space.",
+  "description": "This dataset contains intracranial EEG (iEEG) recordings from 110 individuals performing a visual picture-naming task. Events mark stimulus onset and response onset, and electrode coordinates are provided in MNI-305 (fsaverage) space. The data were used to build a whole-brain millisecond-scale effective connectivity atlas of visual and auditory naming.",
+  "methods_description": "Intracranial EEG was recorded in EDF format during a visual naming task, with event codes 401 for stimulus onset and 501 for response onset. Electrode coordinates were transformed into FreeSurfer fsaverage/MNI305 space. Channel metadata were harmonized with the data file headers, including bipolar derivations.",
   "license": "CC0",
   "dataset_type": "raw",
   "authors": {
-    "Ryuzaburo Kochi": {},
-    "Aya Kanno": {},
-    "Hiroshi Uda": {},
-    "Keisuke Hatano": {},
-    "Masaki Sonoda": {},
-    "Hidenori Endo": {},
-    "Michael Cools": {},
+    "Ryuzaburo Kochi": {
+      "orcid": "0009-0008-4462-1710"
+    },
+    "Aya Kanno": {
+      "orcid": "0000-0002-0871-8098"
+    },
+    "Hiroshi Uda": {
+      "orcid": "0000-0002-7814-697X"
+    },
+    "Keisuke Hatano": {
+      "orcid": "0000-0002-6054-120X"
+    },
+    "Masaki Sonoda": {
+      "orcid": "0000-0002-4612-5728"
+    },
+    "Hidenori Endo": {
+      "orcid": "0000-0003-1472-6032"
+    },
+    "Michael Cools": {
+      "orcid": "0000-0001-6891-3744"
+    },
     "Robert Rothermel": {},
-    "Aimee F. Luat": {},
-    "Eishi Asano": {}
+    "Aimee F. Luat": {
+      "orcid": "0000-0002-1235-0708"
+    },
+    "Eishi Asano": {
+      "orcid": "0000-0001-8391-4067"
+    }
   },
   "keywords": [
     {
       "term": "intracranial EEG"
     },
     {
+      "term": "Electrocorticography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+    },
+    {
       "term": "visual naming"
     },
     {
-      "term": "speech"
+      "term": "language"
     },
     {
       "term": "effective connectivity"
     },
     {
-      "term": "Electrocorticography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+      "term": "MNI-305"
     }
   ],
   "related_identifiers": [
@@ -51,6 +72,11 @@
     {
       "identifier": "https://nemar.org/dataset/on006914",
       "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "10.1101/2025.11.18.689014",
+      "identifier_type": "DOI",
       "relation_type": "IsDescribedBy"
     }
   ],
@@ -74,5 +100,5 @@
     ".tsv",
     ".yml"
   ],
-  "source_hash": "b61ca68d603c789f369bd0653d96bc0eeb268ea0c2f8819bcc13923c28908d60"
+  "source_hash": "b2d4496bc07755ec713699c1e1a2714487a7b551142b765fa7ad4665180d1756"
 }
