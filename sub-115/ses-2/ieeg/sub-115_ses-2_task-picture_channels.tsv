@@ -1,153 +1,63 @@
 name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
-A1	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A2	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A3	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A4	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A5	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A6	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A7	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-A8	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	seizure onset zone
-A9	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	spiking
-A10	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A11	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A12	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A13	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A14	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A15	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A16	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A17	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A18	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A19	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A20	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A21	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A22	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A23	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A24	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A25	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A26	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A27	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A28	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A29	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A30	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A31	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A32	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A33	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A34	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A35	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A36	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A37	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A38	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A39	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A40	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A41	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A42	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A43	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A44	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A45	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A46	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A47	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A48	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-A49	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A50	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A51	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A52	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A53	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A54	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A55	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A56	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A57	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A58	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A59	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-A60	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B1	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	spiking
-B2	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	spiking
-B3	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B4	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B5	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B6	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B7	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B8	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B9	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B10	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B11	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B12	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B13	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B14	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B15	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B16	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B17	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B18	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B19	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B20	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B21	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B22	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B23	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B24	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B25	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B26	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B27	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B28	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B29	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B30	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B31	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B32	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B33	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B34	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B35	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B36	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B37	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B38	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B39	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B40	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B41	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B42	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B43	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B44	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B45	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B46	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B47	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B48	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B49	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B50	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B51	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B52	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B53	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B54	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B55	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B56	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-B57	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B58	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B59	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B60	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B61	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B62	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B63	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-B64	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C1	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C2	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C3	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C4	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C5	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C6	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C7	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C8	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C9	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C10	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C11	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C12	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C13	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C14	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C15	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C16	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C17	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C18	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C19	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C20	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C21	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C22	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C23	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C24	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	good	n/a
-C25	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C26	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C27	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
-C28	ECOG	μV	0.016	300	n/a	n/a	1000	n/a	n/a	bad	artifact
+POL B1-B2	ECOG	V	0.016	300	B2	n/a	1000	bipolar derivation B1-B2	n/a	bad	bipolar derivation B1-B2; contact status in the former channels.tsv: B1 bad, B2 bad
+POL B17-B18	ECOG	V	0.016	300	B18	n/a	1000	bipolar derivation B17-B18	n/a	bad	bipolar derivation B17-B18; contact status in the former channels.tsv: B17 bad, B18 bad
+POL B33-B34	ECOG	V	0.016	300	B34	n/a	1000	bipolar derivation B33-B34	n/a	good	bipolar derivation B33-B34; contact status in the former channels.tsv: B33 good, B34 good
+POL B49-B50	ECOG	V	0.016	300	B50	n/a	1000	bipolar derivation B49-B50	n/a	bad	bipolar derivation B49-B50; contact status in the former channels.tsv: B49 bad, B50 bad
+POL B2-B3	ECOG	V	0.016	300	B3	n/a	1000	bipolar derivation B2-B3	n/a	bad	bipolar derivation B2-B3; contact status in the former channels.tsv: B2 bad, B3 good
+POL B18-B19	ECOG	V	0.016	300	B19	n/a	1000	bipolar derivation B18-B19	n/a	bad	bipolar derivation B18-B19; contact status in the former channels.tsv: B18 bad, B19 bad
+POL B34-B35	ECOG	V	0.016	300	B35	n/a	1000	bipolar derivation B34-B35	n/a	good	bipolar derivation B34-B35; contact status in the former channels.tsv: B34 good, B35 good
+POL B50-B51	ECOG	V	0.016	300	B51	n/a	1000	bipolar derivation B50-B51	n/a	bad	bipolar derivation B50-B51; contact status in the former channels.tsv: B50 bad, B51 good
+POL B3-B4	ECOG	V	0.016	300	B4	n/a	1000	bipolar derivation B3-B4	n/a	good	bipolar derivation B3-B4; contact status in the former channels.tsv: B3 good, B4 good
+POL B19-B20	ECOG	V	0.016	300	B20	n/a	1000	bipolar derivation B19-B20	n/a	bad	bipolar derivation B19-B20; contact status in the former channels.tsv: B19 bad, B20 bad
+POL B35-B36	ECOG	V	0.016	300	B36	n/a	1000	bipolar derivation B35-B36	n/a	bad	bipolar derivation B35-B36; contact status in the former channels.tsv: B35 good, B36 bad
+POL B51-B52	ECOG	V	0.016	300	B52	n/a	1000	bipolar derivation B51-B52	n/a	good	bipolar derivation B51-B52; contact status in the former channels.tsv: B51 good, B52 good
+POL B4-B5	ECOG	V	0.016	300	B5	n/a	1000	bipolar derivation B4-B5	n/a	good	bipolar derivation B4-B5; contact status in the former channels.tsv: B4 good, B5 good
+POL B20-B21	ECOG	V	0.016	300	B21	n/a	1000	bipolar derivation B20-B21	n/a	bad	bipolar derivation B20-B21; contact status in the former channels.tsv: B20 bad, B21 bad
+POL B36-B37	ECOG	V	0.016	300	B37	n/a	1000	bipolar derivation B36-B37	n/a	bad	bipolar derivation B36-B37; contact status in the former channels.tsv: B36 bad, B37 bad
+POL B52-B53	ECOG	V	0.016	300	B53	n/a	1000	bipolar derivation B52-B53	n/a	good	bipolar derivation B52-B53; contact status in the former channels.tsv: B52 good, B53 good
+POL B5-B6	ECOG	V	0.016	300	B6	n/a	1000	bipolar derivation B5-B6	n/a	good	bipolar derivation B5-B6; contact status in the former channels.tsv: B5 good, B6 good
+POL B21-B22	ECOG	V	0.016	300	B22	n/a	1000	bipolar derivation B21-B22	n/a	bad	bipolar derivation B21-B22; contact status in the former channels.tsv: B21 bad, B22 good
+POL B37-B38	ECOG	V	0.016	300	B38	n/a	1000	bipolar derivation B37-B38	n/a	bad	bipolar derivation B37-B38; contact status in the former channels.tsv: B37 bad, B38 good
+POL B53-B54	ECOG	V	0.016	300	B54	n/a	1000	bipolar derivation B53-B54	n/a	good	bipolar derivation B53-B54; contact status in the former channels.tsv: B53 good, B54 good
+POL B6-B7	ECOG	V	0.016	300	B7	n/a	1000	bipolar derivation B6-B7	n/a	bad	bipolar derivation B6-B7; contact status in the former channels.tsv: B6 good, B7 bad
+POL B22-B23	ECOG	V	0.016	300	B23	n/a	1000	bipolar derivation B22-B23	n/a	good	bipolar derivation B22-B23; contact status in the former channels.tsv: B22 good, B23 good
+POL B38-B39	ECOG	V	0.016	300	B39	n/a	1000	bipolar derivation B38-B39	n/a	bad	bipolar derivation B38-B39; contact status in the former channels.tsv: B38 good, B39 bad
+POL B54-B55	ECOG	V	0.016	300	B55	n/a	1000	bipolar derivation B54-B55	n/a	good	bipolar derivation B54-B55; contact status in the former channels.tsv: B54 good, B55 good
+POL B7-B8	ECOG	V	0.016	300	B8	n/a	1000	bipolar derivation B7-B8	n/a	bad	bipolar derivation B7-B8; contact status in the former channels.tsv: B7 bad, B8 bad
+POL B23-B24	ECOG	V	0.016	300	B24	n/a	1000	bipolar derivation B23-B24	n/a	good	bipolar derivation B23-B24; contact status in the former channels.tsv: B23 good, B24 good
+POL B39-B40	ECOG	V	0.016	300	B40	n/a	1000	bipolar derivation B39-B40	n/a	bad	bipolar derivation B39-B40; contact status in the former channels.tsv: B39 bad, B40 bad
+POL B55-B56	ECOG	V	0.016	300	B56	n/a	1000	bipolar derivation B55-B56	n/a	good	bipolar derivation B55-B56; contact status in the former channels.tsv: B55 good, B56 good
+POL B8-B9	ECOG	V	0.016	300	B9	n/a	1000	bipolar derivation B8-B9	n/a	bad	bipolar derivation B8-B9; contact status in the former channels.tsv: B8 bad, B9 bad
+POL B24-B25	ECOG	V	0.016	300	B25	n/a	1000	bipolar derivation B24-B25	n/a	good	bipolar derivation B24-B25; contact status in the former channels.tsv: B24 good, B25 good
+POL B40-B41	ECOG	V	0.016	300	B41	n/a	1000	bipolar derivation B40-B41	n/a	bad	bipolar derivation B40-B41; contact status in the former channels.tsv: B40 bad, B41 good
+POL B56-B57	ECOG	V	0.016	300	B57	n/a	1000	bipolar derivation B56-B57	n/a	bad	bipolar derivation B56-B57; contact status in the former channels.tsv: B56 good, B57 bad
+POL B9-B10	ECOG	V	0.016	300	B10	n/a	1000	bipolar derivation B9-B10	n/a	bad	bipolar derivation B9-B10; contact status in the former channels.tsv: B9 bad, B10 bad
+POL B25-B26	ECOG	V	0.016	300	B26	n/a	1000	bipolar derivation B25-B26	n/a	good	bipolar derivation B25-B26; contact status in the former channels.tsv: B25 good, B26 good
+POL B41-B42	ECOG	V	0.016	300	B42	n/a	1000	bipolar derivation B41-B42	n/a	good	bipolar derivation B41-B42; contact status in the former channels.tsv: B41 good, B42 good
+POL B57-B58	ECOG	V	0.016	300	B58	n/a	1000	bipolar derivation B57-B58	n/a	bad	bipolar derivation B57-B58; contact status in the former channels.tsv: B57 bad, B58 bad
+POL B10-B11	ECOG	V	0.016	300	B11	n/a	1000	bipolar derivation B10-B11	n/a	bad	bipolar derivation B10-B11; contact status in the former channels.tsv: B10 bad, B11 bad
+POL B26-B27	ECOG	V	0.016	300	B27	n/a	1000	bipolar derivation B26-B27	n/a	good	bipolar derivation B26-B27; contact status in the former channels.tsv: B26 good, B27 good
+POL B42-B43	ECOG	V	0.016	300	B43	n/a	1000	bipolar derivation B42-B43	n/a	good	bipolar derivation B42-B43; contact status in the former channels.tsv: B42 good, B43 good
+POL B58-B59	ECOG	V	0.016	300	B59	n/a	1000	bipolar derivation B58-B59	n/a	bad	bipolar derivation B58-B59; contact status in the former channels.tsv: B58 bad, B59 bad
+POL B11-B12	ECOG	V	0.016	300	B12	n/a	1000	bipolar derivation B11-B12	n/a	bad	bipolar derivation B11-B12; contact status in the former channels.tsv: B11 bad, B12 bad
+POL B27-B28	ECOG	V	0.016	300	B28	n/a	1000	bipolar derivation B27-B28	n/a	good	bipolar derivation B27-B28; contact status in the former channels.tsv: B27 good, B28 good
+POL B43-B44	ECOG	V	0.016	300	B44	n/a	1000	bipolar derivation B43-B44	n/a	good	bipolar derivation B43-B44; contact status in the former channels.tsv: B43 good, B44 good
+POL B59-B60	ECOG	V	0.016	300	B60	n/a	1000	bipolar derivation B59-B60	n/a	bad	bipolar derivation B59-B60; contact status in the former channels.tsv: B59 bad, B60 bad
+POL B12-B13	ECOG	V	0.016	300	B13	n/a	1000	bipolar derivation B12-B13	n/a	bad	bipolar derivation B12-B13; contact status in the former channels.tsv: B12 bad, B13 bad
+POL B28-B29	ECOG	V	0.016	300	B29	n/a	1000	bipolar derivation B28-B29	n/a	good	bipolar derivation B28-B29; contact status in the former channels.tsv: B28 good, B29 good
+POL B44-B45	ECOG	V	0.016	300	B45	n/a	1000	bipolar derivation B44-B45	n/a	good	bipolar derivation B44-B45; contact status in the former channels.tsv: B44 good, B45 good
+POL B60-B61	ECOG	V	0.016	300	B61	n/a	1000	bipolar derivation B60-B61	n/a	bad	bipolar derivation B60-B61; contact status in the former channels.tsv: B60 bad, B61 bad
+POL B13-B14	ECOG	V	0.016	300	B14	n/a	1000	bipolar derivation B13-B14	n/a	bad	bipolar derivation B13-B14; contact status in the former channels.tsv: B13 bad, B14 bad
+POL B29-B30	ECOG	V	0.016	300	B30	n/a	1000	bipolar derivation B29-B30	n/a	bad	bipolar derivation B29-B30; contact status in the former channels.tsv: B29 good, B30 bad
+POL B45-B46	ECOG	V	0.016	300	B46	n/a	1000	bipolar derivation B45-B46	n/a	good	bipolar derivation B45-B46; contact status in the former channels.tsv: B45 good, B46 good
+POL B61-B62	ECOG	V	0.016	300	B62	n/a	1000	bipolar derivation B61-B62	n/a	bad	bipolar derivation B61-B62; contact status in the former channels.tsv: B61 bad, B62 bad
+POL B14-B15	ECOG	V	0.016	300	B15	n/a	1000	bipolar derivation B14-B15	n/a	bad	bipolar derivation B14-B15; contact status in the former channels.tsv: B14 bad, B15 bad
+POL B30-B31	ECOG	V	0.016	300	B31	n/a	1000	bipolar derivation B30-B31	n/a	bad	bipolar derivation B30-B31; contact status in the former channels.tsv: B30 bad, B31 bad
+POL B46-B47	ECOG	V	0.016	300	B47	n/a	1000	bipolar derivation B46-B47	n/a	bad	bipolar derivation B46-B47; contact status in the former channels.tsv: B46 good, B47 bad
+POL B62-B63	ECOG	V	0.016	300	B63	n/a	1000	bipolar derivation B62-B63	n/a	bad	bipolar derivation B62-B63; contact status in the former channels.tsv: B62 bad, B63 bad
+POL B15-B16	ECOG	V	0.016	300	B16	n/a	1000	bipolar derivation B15-B16	n/a	bad	bipolar derivation B15-B16; contact status in the former channels.tsv: B15 bad, B16 bad
+POL B31-B32	ECOG	V	0.016	300	B32	n/a	1000	bipolar derivation B31-B32	n/a	bad	bipolar derivation B31-B32; contact status in the former channels.tsv: B31 bad, B32 bad
+POL B47-B48	ECOG	V	0.016	300	B48	n/a	1000	bipolar derivation B47-B48	n/a	bad	bipolar derivation B47-B48; contact status in the former channels.tsv: B47 bad, B48 bad
+POL B63-B64	ECOG	V	0.016	300	B64	n/a	1000	bipolar derivation B63-B64	n/a	bad	bipolar derivation B63-B64; contact status in the former channels.tsv: B63 bad, B64 bad
+POL DC01	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL DC02	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
