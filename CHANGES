@@ -3,6 +3,7 @@
   - channels.tsv of 353 recordings = the data-file header channel list (name, order, count; matched by name): 0 rows renamed to the header name, 17648 rows added, 45762 rows removed (kept in sourcedata/channels-removed-2026-10-18/), 0 files reordered, 16930 bipolar-derivation rows in 350 files (status from both contact rows). Before, mne_bids could not apply channels.tsv to these files (count or name mismatch).
   - README: section 'Channel names follow the data headers'.
   - 2026-11-20 channels.tsv `units` of 347 picture-naming recordings: V -> μV (the EDF headers label the unit "V" but the values are microvolts; README section 'Units of the picture-naming recordings'); 17354 rows.
+  - 2026-11-20 coordsystem.json of 353 recordings: iEEGCoordinateSystem MNI305 -> fsaverage (every contact is a vertex of the fsaverage pial surface; README section 'Electrode coordinate frame').
 
 1.0.3 2025-11-13
   - ver3
