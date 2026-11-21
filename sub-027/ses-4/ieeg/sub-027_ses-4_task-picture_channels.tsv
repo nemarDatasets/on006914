@@ -1,15 +1,15 @@
 name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
-POL B41-B49	ECOG	V	0.016	300	B49	n/a	1000	bipolar derivation B41-B49	n/a	good	bipolar derivation B41-B49; contact status in the former channels.tsv: B41 good, B49 good
-POL B42-B50	ECOG	V	0.016	300	B50	n/a	1000	bipolar derivation B42-B50	n/a	good	bipolar derivation B42-B50; contact status in the former channels.tsv: B42 good, B50 good
-POL B43-B51	ECOG	V	0.016	300	B51	n/a	1000	bipolar derivation B43-B51	n/a	bad	bipolar derivation B43-B51; contact status in the former channels.tsv: B43 good, B51 bad
-POL B44-B52	ECOG	V	0.016	300	B52	n/a	1000	bipolar derivation B44-B52	n/a	bad	bipolar derivation B44-B52; contact status in the former channels.tsv: B44 good, B52 bad
-POL B45-B53	ECOG	V	0.016	300	B53	n/a	1000	bipolar derivation B45-B53	n/a	good	bipolar derivation B45-B53; contact status in the former channels.tsv: B45 good, B53 good
-POL B46-B54	ECOG	V	0.016	300	B54	n/a	1000	bipolar derivation B46-B54	n/a	good	bipolar derivation B46-B54; contact status in the former channels.tsv: B46 good, B54 good
-POL B47-B55	ECOG	V	0.016	300	B55	n/a	1000	bipolar derivation B47-B55	n/a	good	bipolar derivation B47-B55; contact status in the former channels.tsv: B47 good, B55 good
-POL B48-B56	ECOG	V	0.016	300	B56	n/a	1000	bipolar derivation B48-B56	n/a	good	bipolar derivation B48-B56; contact status in the former channels.tsv: B48 good, B56 good
-POL B49-B57	ECOG	V	0.016	300	B57	n/a	1000	bipolar derivation B49-B57	n/a	good	bipolar derivation B49-B57; contact status in the former channels.tsv: B49 good, B57 good
-POL B50-B58	ECOG	V	0.016	300	B58	n/a	1000	bipolar derivation B50-B58	n/a	good	bipolar derivation B50-B58; contact status in the former channels.tsv: B50 good, B58 good
-POL B51-B59	ECOG	V	0.016	300	B59	n/a	1000	bipolar derivation B51-B59	n/a	bad	bipolar derivation B51-B59; contact status in the former channels.tsv: B51 bad, B59 bad
-POL B52-B60	ECOG	V	0.016	300	B60	n/a	1000	bipolar derivation B52-B60	n/a	bad	bipolar derivation B52-B60; contact status in the former channels.tsv: B52 bad, B60 bad
-POL DC01	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
-POL DC02	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL B41-B49	ECOG	μV	0.016	300	B49	n/a	1000	bipolar derivation B41-B49	n/a	good	bipolar derivation B41-B49; contact status in the former channels.tsv: B41 good, B49 good
+POL B42-B50	ECOG	μV	0.016	300	B50	n/a	1000	bipolar derivation B42-B50	n/a	good	bipolar derivation B42-B50; contact status in the former channels.tsv: B42 good, B50 good
+POL B43-B51	ECOG	μV	0.016	300	B51	n/a	1000	bipolar derivation B43-B51	n/a	bad	bipolar derivation B43-B51; contact status in the former channels.tsv: B43 good, B51 bad
+POL B44-B52	ECOG	μV	0.016	300	B52	n/a	1000	bipolar derivation B44-B52	n/a	bad	bipolar derivation B44-B52; contact status in the former channels.tsv: B44 good, B52 bad
+POL B45-B53	ECOG	μV	0.016	300	B53	n/a	1000	bipolar derivation B45-B53	n/a	good	bipolar derivation B45-B53; contact status in the former channels.tsv: B45 good, B53 good
+POL B46-B54	ECOG	μV	0.016	300	B54	n/a	1000	bipolar derivation B46-B54	n/a	good	bipolar derivation B46-B54; contact status in the former channels.tsv: B46 good, B54 good
+POL B47-B55	ECOG	μV	0.016	300	B55	n/a	1000	bipolar derivation B47-B55	n/a	good	bipolar derivation B47-B55; contact status in the former channels.tsv: B47 good, B55 good
+POL B48-B56	ECOG	μV	0.016	300	B56	n/a	1000	bipolar derivation B48-B56	n/a	good	bipolar derivation B48-B56; contact status in the former channels.tsv: B48 good, B56 good
+POL B49-B57	ECOG	μV	0.016	300	B57	n/a	1000	bipolar derivation B49-B57	n/a	good	bipolar derivation B49-B57; contact status in the former channels.tsv: B49 good, B57 good
+POL B50-B58	ECOG	μV	0.016	300	B58	n/a	1000	bipolar derivation B50-B58	n/a	good	bipolar derivation B50-B58; contact status in the former channels.tsv: B50 good, B58 good
+POL B51-B59	ECOG	μV	0.016	300	B59	n/a	1000	bipolar derivation B51-B59	n/a	bad	bipolar derivation B51-B59; contact status in the former channels.tsv: B51 bad, B59 bad
+POL B52-B60	ECOG	μV	0.016	300	B60	n/a	1000	bipolar derivation B52-B60	n/a	bad	bipolar derivation B52-B60; contact status in the former channels.tsv: B52 bad, B60 bad
+POL DC01	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL DC02	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a

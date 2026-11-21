@@ -1,25 +1,25 @@
 name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
-POL B13-B14	ECOG	V	0.016	300	B14	n/a	1000	bipolar derivation B13-B14	n/a	good	bipolar derivation B13-B14; contact status in the former channels.tsv: B13 good, B14 good
-POL B21-B22	ECOG	V	0.016	300	B22	n/a	1000	bipolar derivation B21-B22	n/a	good	bipolar derivation B21-B22; contact status in the former channels.tsv: B21 good, B22 good
-POL B14-B15	ECOG	V	0.016	300	B15	n/a	1000	bipolar derivation B14-B15	n/a	good	bipolar derivation B14-B15; contact status in the former channels.tsv: B14 good, B15 good
-POL B22-B23	ECOG	V	0.016	300	B23	n/a	1000	bipolar derivation B22-B23	n/a	good	bipolar derivation B22-B23; contact status in the former channels.tsv: B22 good, B23 good
-POL B15-B16	ECOG	V	0.016	300	B16	n/a	1000	bipolar derivation B15-B16	n/a	good	bipolar derivation B15-B16; contact status in the former channels.tsv: B15 good, B16 good
-POL B23-B24	ECOG	V	0.016	300	B24	n/a	1000	bipolar derivation B23-B24	n/a	good	bipolar derivation B23-B24; contact status in the former channels.tsv: B23 good, B24 good
-POL B16-B17	ECOG	V	0.016	300	B17	n/a	1000	bipolar derivation B16-B17	n/a	good	bipolar derivation B16-B17; contact status in the former channels.tsv: B16 good, B17 good
-POL B24-B25	ECOG	V	0.016	300	B25	n/a	1000	bipolar derivation B24-B25	n/a	good	bipolar derivation B24-B25; contact status in the former channels.tsv: B24 good, B25 good
-POL B17-B18	ECOG	V	0.016	300	B18	n/a	1000	bipolar derivation B17-B18	n/a	good	bipolar derivation B17-B18; contact status in the former channels.tsv: B17 good, B18 good
-POL B25-B26	ECOG	V	0.016	300	B26	n/a	1000	bipolar derivation B25-B26	n/a	good	bipolar derivation B25-B26; contact status in the former channels.tsv: B25 good, B26 good
-POL B18-B19	ECOG	V	0.016	300	B19	n/a	1000	bipolar derivation B18-B19	n/a	good	bipolar derivation B18-B19; contact status in the former channels.tsv: B18 good, B19 good
-POL B26-B27	ECOG	V	0.016	300	B27	n/a	1000	bipolar derivation B26-B27	n/a	good	bipolar derivation B26-B27; contact status in the former channels.tsv: B26 good, B27 good
-POL B19-B20	ECOG	V	0.016	300	B20	n/a	1000	bipolar derivation B19-B20	n/a	good	bipolar derivation B19-B20; contact status in the former channels.tsv: B19 good, B20 good
-POL B27-B28	ECOG	V	0.016	300	B28	n/a	1000	bipolar derivation B27-B28	n/a	good	bipolar derivation B27-B28; contact status in the former channels.tsv: B27 good, B28 good
-POL B13-B21	ECOG	V	0.016	300	B21	n/a	1000	bipolar derivation B13-B21	n/a	good	bipolar derivation B13-B21; contact status in the former channels.tsv: B13 good, B21 good
-POL B14-B22	ECOG	V	0.016	300	B22	n/a	1000	bipolar derivation B14-B22	n/a	good	bipolar derivation B14-B22; contact status in the former channels.tsv: B14 good, B22 good
-POL B15-B23	ECOG	V	0.016	300	B23	n/a	1000	bipolar derivation B15-B23	n/a	good	bipolar derivation B15-B23; contact status in the former channels.tsv: B15 good, B23 good
-POL B16-B24	ECOG	V	0.016	300	B24	n/a	1000	bipolar derivation B16-B24	n/a	good	bipolar derivation B16-B24; contact status in the former channels.tsv: B16 good, B24 good
-POL B17-B25	ECOG	V	0.016	300	B25	n/a	1000	bipolar derivation B17-B25	n/a	good	bipolar derivation B17-B25; contact status in the former channels.tsv: B17 good, B25 good
-POL B18-B26	ECOG	V	0.016	300	B26	n/a	1000	bipolar derivation B18-B26	n/a	good	bipolar derivation B18-B26; contact status in the former channels.tsv: B18 good, B26 good
-POL B19-B27	ECOG	V	0.016	300	B27	n/a	1000	bipolar derivation B19-B27	n/a	good	bipolar derivation B19-B27; contact status in the former channels.tsv: B19 good, B27 good
-POL B20-B28	ECOG	V	0.016	300	B28	n/a	1000	bipolar derivation B20-B28	n/a	good	bipolar derivation B20-B28; contact status in the former channels.tsv: B20 good, B28 good
-POL DC01	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
-POL DC02	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL B13-B14	ECOG	μV	0.016	300	B14	n/a	1000	bipolar derivation B13-B14	n/a	good	bipolar derivation B13-B14; contact status in the former channels.tsv: B13 good, B14 good
+POL B21-B22	ECOG	μV	0.016	300	B22	n/a	1000	bipolar derivation B21-B22	n/a	good	bipolar derivation B21-B22; contact status in the former channels.tsv: B21 good, B22 good
+POL B14-B15	ECOG	μV	0.016	300	B15	n/a	1000	bipolar derivation B14-B15	n/a	good	bipolar derivation B14-B15; contact status in the former channels.tsv: B14 good, B15 good
+POL B22-B23	ECOG	μV	0.016	300	B23	n/a	1000	bipolar derivation B22-B23	n/a	good	bipolar derivation B22-B23; contact status in the former channels.tsv: B22 good, B23 good
+POL B15-B16	ECOG	μV	0.016	300	B16	n/a	1000	bipolar derivation B15-B16	n/a	good	bipolar derivation B15-B16; contact status in the former channels.tsv: B15 good, B16 good
+POL B23-B24	ECOG	μV	0.016	300	B24	n/a	1000	bipolar derivation B23-B24	n/a	good	bipolar derivation B23-B24; contact status in the former channels.tsv: B23 good, B24 good
+POL B16-B17	ECOG	μV	0.016	300	B17	n/a	1000	bipolar derivation B16-B17	n/a	good	bipolar derivation B16-B17; contact status in the former channels.tsv: B16 good, B17 good
+POL B24-B25	ECOG	μV	0.016	300	B25	n/a	1000	bipolar derivation B24-B25	n/a	good	bipolar derivation B24-B25; contact status in the former channels.tsv: B24 good, B25 good
+POL B17-B18	ECOG	μV	0.016	300	B18	n/a	1000	bipolar derivation B17-B18	n/a	good	bipolar derivation B17-B18; contact status in the former channels.tsv: B17 good, B18 good
+POL B25-B26	ECOG	μV	0.016	300	B26	n/a	1000	bipolar derivation B25-B26	n/a	good	bipolar derivation B25-B26; contact status in the former channels.tsv: B25 good, B26 good
+POL B18-B19	ECOG	μV	0.016	300	B19	n/a	1000	bipolar derivation B18-B19	n/a	good	bipolar derivation B18-B19; contact status in the former channels.tsv: B18 good, B19 good
+POL B26-B27	ECOG	μV	0.016	300	B27	n/a	1000	bipolar derivation B26-B27	n/a	good	bipolar derivation B26-B27; contact status in the former channels.tsv: B26 good, B27 good
+POL B19-B20	ECOG	μV	0.016	300	B20	n/a	1000	bipolar derivation B19-B20	n/a	good	bipolar derivation B19-B20; contact status in the former channels.tsv: B19 good, B20 good
+POL B27-B28	ECOG	μV	0.016	300	B28	n/a	1000	bipolar derivation B27-B28	n/a	good	bipolar derivation B27-B28; contact status in the former channels.tsv: B27 good, B28 good
+POL B13-B21	ECOG	μV	0.016	300	B21	n/a	1000	bipolar derivation B13-B21	n/a	good	bipolar derivation B13-B21; contact status in the former channels.tsv: B13 good, B21 good
+POL B14-B22	ECOG	μV	0.016	300	B22	n/a	1000	bipolar derivation B14-B22	n/a	good	bipolar derivation B14-B22; contact status in the former channels.tsv: B14 good, B22 good
+POL B15-B23	ECOG	μV	0.016	300	B23	n/a	1000	bipolar derivation B15-B23	n/a	good	bipolar derivation B15-B23; contact status in the former channels.tsv: B15 good, B23 good
+POL B16-B24	ECOG	μV	0.016	300	B24	n/a	1000	bipolar derivation B16-B24	n/a	good	bipolar derivation B16-B24; contact status in the former channels.tsv: B16 good, B24 good
+POL B17-B25	ECOG	μV	0.016	300	B25	n/a	1000	bipolar derivation B17-B25	n/a	good	bipolar derivation B17-B25; contact status in the former channels.tsv: B17 good, B25 good
+POL B18-B26	ECOG	μV	0.016	300	B26	n/a	1000	bipolar derivation B18-B26	n/a	good	bipolar derivation B18-B26; contact status in the former channels.tsv: B18 good, B26 good
+POL B19-B27	ECOG	μV	0.016	300	B27	n/a	1000	bipolar derivation B19-B27	n/a	good	bipolar derivation B19-B27; contact status in the former channels.tsv: B19 good, B27 good
+POL B20-B28	ECOG	μV	0.016	300	B28	n/a	1000	bipolar derivation B20-B28	n/a	good	bipolar derivation B20-B28; contact status in the former channels.tsv: B20 good, B28 good
+POL DC01	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL DC02	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a

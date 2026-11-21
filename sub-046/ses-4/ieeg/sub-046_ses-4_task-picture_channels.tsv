@@ -1,5 +1,5 @@
 name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
-POL B31-B39	ECOG	V	0.016	300	B39	n/a	1000	bipolar derivation B31-B39	n/a	bad	bipolar derivation B31-B39; contact status in the former channels.tsv: B31 bad, B39 good
-POL B32-B40	ECOG	V	0.016	300	B40	n/a	1000	bipolar derivation B32-B40	n/a	bad	bipolar derivation B32-B40; contact status in the former channels.tsv: B32 bad, B40 good
-POL DC01	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
-POL DC02	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL B31-B39	ECOG	μV	0.016	300	B39	n/a	1000	bipolar derivation B31-B39	n/a	bad	bipolar derivation B31-B39; contact status in the former channels.tsv: B31 bad, B39 good
+POL B32-B40	ECOG	μV	0.016	300	B40	n/a	1000	bipolar derivation B32-B40	n/a	bad	bipolar derivation B32-B40; contact status in the former channels.tsv: B32 bad, B40 good
+POL DC01	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL DC02	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a

@@ -1,11 +1,11 @@
 name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
-POL A23-A31	ECOG	V	0.016	300	A31	n/a	1000	bipolar derivation A23-A31	n/a	good	bipolar derivation A23-A31; contact status in the former channels.tsv: A23 good, A31 good
-POL A24-A32	ECOG	V	0.016	300	A32	n/a	1000	bipolar derivation A24-A32	n/a	good	bipolar derivation A24-A32; contact status in the former channels.tsv: A24 good, A32 good
-POL A25-A33	ECOG	V	0.016	300	A33	n/a	1000	bipolar derivation A25-A33	n/a	good	bipolar derivation A25-A33; contact status in the former channels.tsv: A25 good, A33 good
-POL A26-A34	ECOG	V	0.016	300	A34	n/a	1000	bipolar derivation A26-A34	n/a	good	bipolar derivation A26-A34; contact status in the former channels.tsv: A26 good, A34 good
-POL A27-A35	ECOG	V	0.016	300	A35	n/a	1000	bipolar derivation A27-A35	n/a	good	bipolar derivation A27-A35; contact status in the former channels.tsv: A27 good, A35 good
-POL A28-A36	ECOG	V	0.016	300	A36	n/a	1000	bipolar derivation A28-A36	n/a	good	bipolar derivation A28-A36; contact status in the former channels.tsv: A28 good, A36 good
-POL A29-A37	ECOG	V	0.016	300	A37	n/a	1000	bipolar derivation A29-A37	n/a	good	bipolar derivation A29-A37; contact status in the former channels.tsv: A29 good, A37 good
-POL A30-A38	ECOG	V	0.016	300	A38	n/a	1000	bipolar derivation A30-A38	n/a	good	bipolar derivation A30-A38; contact status in the former channels.tsv: A30 good, A38 good
-POL DC01	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
-POL DC02	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL A23-A31	ECOG	μV	0.016	300	A31	n/a	1000	bipolar derivation A23-A31	n/a	good	bipolar derivation A23-A31; contact status in the former channels.tsv: A23 good, A31 good
+POL A24-A32	ECOG	μV	0.016	300	A32	n/a	1000	bipolar derivation A24-A32	n/a	good	bipolar derivation A24-A32; contact status in the former channels.tsv: A24 good, A32 good
+POL A25-A33	ECOG	μV	0.016	300	A33	n/a	1000	bipolar derivation A25-A33	n/a	good	bipolar derivation A25-A33; contact status in the former channels.tsv: A25 good, A33 good
+POL A26-A34	ECOG	μV	0.016	300	A34	n/a	1000	bipolar derivation A26-A34	n/a	good	bipolar derivation A26-A34; contact status in the former channels.tsv: A26 good, A34 good
+POL A27-A35	ECOG	μV	0.016	300	A35	n/a	1000	bipolar derivation A27-A35	n/a	good	bipolar derivation A27-A35; contact status in the former channels.tsv: A27 good, A35 good
+POL A28-A36	ECOG	μV	0.016	300	A36	n/a	1000	bipolar derivation A28-A36	n/a	good	bipolar derivation A28-A36; contact status in the former channels.tsv: A28 good, A36 good
+POL A29-A37	ECOG	μV	0.016	300	A37	n/a	1000	bipolar derivation A29-A37	n/a	good	bipolar derivation A29-A37; contact status in the former channels.tsv: A29 good, A37 good
+POL A30-A38	ECOG	μV	0.016	300	A38	n/a	1000	bipolar derivation A30-A38	n/a	good	bipolar derivation A30-A38; contact status in the former channels.tsv: A30 good, A38 good
+POL DC01	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL DC02	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a

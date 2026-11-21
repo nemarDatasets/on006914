@@ -1,24 +1,24 @@
 name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
-POL A31-A39	ECOG	V	0.016	300	A39	n/a	1000	bipolar derivation A31-A39	n/a	good	bipolar derivation A31-A39; contact status in the former channels.tsv: A31 good, A39 good
-POL A32-A40	ECOG	V	0.016	300	A40	n/a	1000	bipolar derivation A32-A40	n/a	good	bipolar derivation A32-A40; contact status in the former channels.tsv: A32 good, A40 good
-POL A33-A41	ECOG	V	0.016	300	A41	n/a	1000	bipolar derivation A33-A41	n/a	bad	bipolar derivation A33-A41; contact status in the former channels.tsv: A33 bad, A41 good
-POL A34-A42	ECOG	V	0.016	300	A42	n/a	1000	bipolar derivation A34-A42	n/a	good	bipolar derivation A34-A42; contact status in the former channels.tsv: A34 good, A42 good
-POL A35-A43	ECOG	V	0.016	300	A43	n/a	1000	bipolar derivation A35-A43	n/a	good	bipolar derivation A35-A43; contact status in the former channels.tsv: A35 good, A43 good
-POL A36-A44	ECOG	V	0.016	300	A44	n/a	1000	bipolar derivation A36-A44	n/a	good	bipolar derivation A36-A44; contact status in the former channels.tsv: A36 good, A44 good
-POL A45-A50	ECOG	V	0.016	300	A50	n/a	1000	bipolar derivation A45-A50	n/a	bad	bipolar derivation A45-A50; contact status in the former channels.tsv: A45 bad, A50 good
-POL A46-A51	ECOG	V	0.016	300	A51	n/a	1000	bipolar derivation A46-A51	n/a	good	bipolar derivation A46-A51; contact status in the former channels.tsv: A46 good, A51 good
-POL A47-A52	ECOG	V	0.016	300	A52	n/a	1000	bipolar derivation A47-A52	n/a	bad	bipolar derivation A47-A52; contact status in the former channels.tsv: A47 bad, A52 good
-POL A48-A53	ECOG	V	0.016	300	A53	n/a	1000	bipolar derivation A48-A53	n/a	bad	bipolar derivation A48-A53; contact status in the former channels.tsv: A48 bad, A53 good
-POL A49-A54	ECOG	V	0.016	300	A54	n/a	1000	bipolar derivation A49-A54	n/a	good	bipolar derivation A49-A54; contact status in the former channels.tsv: A49 good, A54 good
-POL A50-A55	ECOG	V	0.016	300	A55	n/a	1000	bipolar derivation A50-A55	n/a	good	bipolar derivation A50-A55; contact status in the former channels.tsv: A50 good, A55 good
-POL A51-A56	ECOG	V	0.016	300	A56	n/a	1000	bipolar derivation A51-A56	n/a	bad	bipolar derivation A51-A56; contact status in the former channels.tsv: A51 good, A56 bad
-POL A52-A57	ECOG	V	0.016	300	A57	n/a	1000	bipolar derivation A52-A57	n/a	good	bipolar derivation A52-A57; contact status in the former channels.tsv: A52 good, A57 good
-POL A53-A58	ECOG	V	0.016	300	A58	n/a	1000	bipolar derivation A53-A58	n/a	good	bipolar derivation A53-A58; contact status in the former channels.tsv: A53 good, A58 good
-POL A54-A59	ECOG	V	0.016	300	A59	n/a	1000	bipolar derivation A54-A59	n/a	good	bipolar derivation A54-A59; contact status in the former channels.tsv: A54 good, A59 good
-POL A55-A60	ECOG	V	0.016	300	A60	n/a	1000	bipolar derivation A55-A60	n/a	good	bipolar derivation A55-A60; contact status in the former channels.tsv: A55 good, A60 good
-POL A56-A61	ECOG	V	0.016	300	A61	n/a	1000	bipolar derivation A56-A61	n/a	bad	bipolar derivation A56-A61; contact status in the former channels.tsv: A56 bad, A61 good
-POL A57-A62	ECOG	V	0.016	300	A62	n/a	1000	bipolar derivation A57-A62	n/a	good	bipolar derivation A57-A62; contact status in the former channels.tsv: A57 good, A62 good
-POL A58-A63	ECOG	V	0.016	300	A63	n/a	1000	bipolar derivation A58-A63	n/a	good	bipolar derivation A58-A63; contact status in the former channels.tsv: A58 good, A63 good
-POL A59-A64	ECOG	V	0.016	300	A64	n/a	1000	bipolar derivation A59-A64	n/a	good	bipolar derivation A59-A64; contact status in the former channels.tsv: A59 good, A64 good
-POL DC01	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
-POL DC02	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL A31-A39	ECOG	μV	0.016	300	A39	n/a	1000	bipolar derivation A31-A39	n/a	good	bipolar derivation A31-A39; contact status in the former channels.tsv: A31 good, A39 good
+POL A32-A40	ECOG	μV	0.016	300	A40	n/a	1000	bipolar derivation A32-A40	n/a	good	bipolar derivation A32-A40; contact status in the former channels.tsv: A32 good, A40 good
+POL A33-A41	ECOG	μV	0.016	300	A41	n/a	1000	bipolar derivation A33-A41	n/a	bad	bipolar derivation A33-A41; contact status in the former channels.tsv: A33 bad, A41 good
+POL A34-A42	ECOG	μV	0.016	300	A42	n/a	1000	bipolar derivation A34-A42	n/a	good	bipolar derivation A34-A42; contact status in the former channels.tsv: A34 good, A42 good
+POL A35-A43	ECOG	μV	0.016	300	A43	n/a	1000	bipolar derivation A35-A43	n/a	good	bipolar derivation A35-A43; contact status in the former channels.tsv: A35 good, A43 good
+POL A36-A44	ECOG	μV	0.016	300	A44	n/a	1000	bipolar derivation A36-A44	n/a	good	bipolar derivation A36-A44; contact status in the former channels.tsv: A36 good, A44 good
+POL A45-A50	ECOG	μV	0.016	300	A50	n/a	1000	bipolar derivation A45-A50	n/a	bad	bipolar derivation A45-A50; contact status in the former channels.tsv: A45 bad, A50 good
+POL A46-A51	ECOG	μV	0.016	300	A51	n/a	1000	bipolar derivation A46-A51	n/a	good	bipolar derivation A46-A51; contact status in the former channels.tsv: A46 good, A51 good
+POL A47-A52	ECOG	μV	0.016	300	A52	n/a	1000	bipolar derivation A47-A52	n/a	bad	bipolar derivation A47-A52; contact status in the former channels.tsv: A47 bad, A52 good
+POL A48-A53	ECOG	μV	0.016	300	A53	n/a	1000	bipolar derivation A48-A53	n/a	bad	bipolar derivation A48-A53; contact status in the former channels.tsv: A48 bad, A53 good
+POL A49-A54	ECOG	μV	0.016	300	A54	n/a	1000	bipolar derivation A49-A54	n/a	good	bipolar derivation A49-A54; contact status in the former channels.tsv: A49 good, A54 good
+POL A50-A55	ECOG	μV	0.016	300	A55	n/a	1000	bipolar derivation A50-A55	n/a	good	bipolar derivation A50-A55; contact status in the former channels.tsv: A50 good, A55 good
+POL A51-A56	ECOG	μV	0.016	300	A56	n/a	1000	bipolar derivation A51-A56	n/a	bad	bipolar derivation A51-A56; contact status in the former channels.tsv: A51 good, A56 bad
+POL A52-A57	ECOG	μV	0.016	300	A57	n/a	1000	bipolar derivation A52-A57	n/a	good	bipolar derivation A52-A57; contact status in the former channels.tsv: A52 good, A57 good
+POL A53-A58	ECOG	μV	0.016	300	A58	n/a	1000	bipolar derivation A53-A58	n/a	good	bipolar derivation A53-A58; contact status in the former channels.tsv: A53 good, A58 good
+POL A54-A59	ECOG	μV	0.016	300	A59	n/a	1000	bipolar derivation A54-A59	n/a	good	bipolar derivation A54-A59; contact status in the former channels.tsv: A54 good, A59 good
+POL A55-A60	ECOG	μV	0.016	300	A60	n/a	1000	bipolar derivation A55-A60	n/a	good	bipolar derivation A55-A60; contact status in the former channels.tsv: A55 good, A60 good
+POL A56-A61	ECOG	μV	0.016	300	A61	n/a	1000	bipolar derivation A56-A61	n/a	bad	bipolar derivation A56-A61; contact status in the former channels.tsv: A56 bad, A61 good
+POL A57-A62	ECOG	μV	0.016	300	A62	n/a	1000	bipolar derivation A57-A62	n/a	good	bipolar derivation A57-A62; contact status in the former channels.tsv: A57 good, A62 good
+POL A58-A63	ECOG	μV	0.016	300	A63	n/a	1000	bipolar derivation A58-A63	n/a	good	bipolar derivation A58-A63; contact status in the former channels.tsv: A58 good, A63 good
+POL A59-A64	ECOG	μV	0.016	300	A64	n/a	1000	bipolar derivation A59-A64	n/a	good	bipolar derivation A59-A64; contact status in the former channels.tsv: A59 good, A64 good
+POL DC01	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL DC02	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a

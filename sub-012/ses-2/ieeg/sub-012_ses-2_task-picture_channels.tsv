@@ -1,7 +1,7 @@
 name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
-POL A53-A61	ECOG	V	0.016	300	A61	n/a	1000	bipolar derivation A53-A61	n/a	good	bipolar derivation A53-A61; contact status in the former channels.tsv: A53 good, A61 good
-POL A54-A62	ECOG	V	0.016	300	A62	n/a	1000	bipolar derivation A54-A62	n/a	good	bipolar derivation A54-A62; contact status in the former channels.tsv: A54 good, A62 good
-POL A55-A63	ECOG	V	0.016	300	A63	n/a	1000	bipolar derivation A55-A63	n/a	good	bipolar derivation A55-A63; contact status in the former channels.tsv: A55 good, A63 good
-POL A56-A64	ECOG	V	0.016	300	A64	n/a	1000	bipolar derivation A56-A64	n/a	bad	bipolar derivation A56-A64; contact status in the former channels.tsv: A56 good, A64 bad
-POL DC01	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
-POL DC02	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL A53-A61	ECOG	μV	0.016	300	A61	n/a	1000	bipolar derivation A53-A61	n/a	good	bipolar derivation A53-A61; contact status in the former channels.tsv: A53 good, A61 good
+POL A54-A62	ECOG	μV	0.016	300	A62	n/a	1000	bipolar derivation A54-A62	n/a	good	bipolar derivation A54-A62; contact status in the former channels.tsv: A54 good, A62 good
+POL A55-A63	ECOG	μV	0.016	300	A63	n/a	1000	bipolar derivation A55-A63	n/a	good	bipolar derivation A55-A63; contact status in the former channels.tsv: A55 good, A63 good
+POL A56-A64	ECOG	μV	0.016	300	A64	n/a	1000	bipolar derivation A56-A64	n/a	bad	bipolar derivation A56-A64; contact status in the former channels.tsv: A56 good, A64 bad
+POL DC01	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL DC02	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a

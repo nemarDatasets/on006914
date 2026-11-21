@@ -1,7 +1,7 @@
 name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
-POL B21-B29	ECOG	V	0.016	300	B29	n/a	1000	bipolar derivation B21-B29	n/a	good	bipolar derivation B21-B29; contact status in the former channels.tsv: B21 good, B29 good
-POL B22-B30	ECOG	V	0.016	300	B30	n/a	1000	bipolar derivation B22-B30	n/a	good	bipolar derivation B22-B30; contact status in the former channels.tsv: B22 good, B30 good
-POL B23-B31	ECOG	V	0.016	300	B31	n/a	1000	bipolar derivation B23-B31	n/a	good	bipolar derivation B23-B31; contact status in the former channels.tsv: B23 good, B31 good
-POL B24-B32	ECOG	V	0.016	300	B32	n/a	1000	bipolar derivation B24-B32	n/a	good	bipolar derivation B24-B32; contact status in the former channels.tsv: B24 good, B32 good
-POL DC01	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
-POL DC02	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL B21-B29	ECOG	μV	0.016	300	B29	n/a	1000	bipolar derivation B21-B29	n/a	good	bipolar derivation B21-B29; contact status in the former channels.tsv: B21 good, B29 good
+POL B22-B30	ECOG	μV	0.016	300	B30	n/a	1000	bipolar derivation B22-B30	n/a	good	bipolar derivation B22-B30; contact status in the former channels.tsv: B22 good, B30 good
+POL B23-B31	ECOG	μV	0.016	300	B31	n/a	1000	bipolar derivation B23-B31	n/a	good	bipolar derivation B23-B31; contact status in the former channels.tsv: B23 good, B31 good
+POL B24-B32	ECOG	μV	0.016	300	B32	n/a	1000	bipolar derivation B24-B32	n/a	good	bipolar derivation B24-B32; contact status in the former channels.tsv: B24 good, B32 good
+POL DC01	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL DC02	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a

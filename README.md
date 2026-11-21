@@ -32,3 +32,9 @@ Primary source: this dataset's own README (line 3 of README.md on main, nemarDat
 Reproducible check (22 Oct 2026): for each of the 353 electrodes.tsv, every contact's x/y/z was compared (to 0.001 mm) with every electrodes.tsv of other deposits from the same group at pinned nemarDatasets commits (on004551@c4c035f6, on004859@db21ebb2, on005007@b59363aa, on005545@948f2825, on005931@cbd529e5, on006107@b37dcbfc, on006233@396692f0, on006910@9eb96ebd, on007118@8f2c41fa, on007119@c099745b, on007120@66296ebd). 353 files have all contacts identical to one file of another deposit: 198 to a deposit whose coordsystem.json declares fsaverage/mm (on007118, on007119, on007120) and 353 to a deposit whose README states MNI305/MNI-305 (on004551, on005545, on006233, on006910); a file can match both.
 
 Limitation: these sidecars declare the frame and units only. electrodes.tsv is unchanged and no coordinate value changed. Positions do not attach to channels in mne_bids or EEGDash, because the channel names (data-header labels, e.g. prefixed labels or bipolar derivations) differ from the contact names in electrodes.tsv; a channel-to-contact mapping is not part of this change. This dataset mirrors OpenNeuro; the same change belongs upstream.
+
+## Units of the picture-naming recordings (20 Nov 2026)
+
+The EDF headers of 347 of the picture-naming recordings label the unit "V", but the values are microvolts (for example, the physical range of sub-007 ses-1 is about ±934 and ±243, which is not plausible in volts).
+The `units` column of their channels.tsv therefore says `μV` (Greek small letter mu, U+03BC, as in the other channels.tsv of this dataset).
+The six recordings of sub-126 and sub-127 label the unit "uV" in the EDF header and already said `μV`.

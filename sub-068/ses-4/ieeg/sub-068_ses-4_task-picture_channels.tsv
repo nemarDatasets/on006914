@@ -1,10 +1,10 @@
 name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
-POL C1-C2	ECOG	V	0.016	300	C2	n/a	1000	bipolar derivation C1-C2	n/a	good	bipolar derivation C1-C2; contact status in the former channels.tsv: C1 good, C2 good
-POL C2-C3	ECOG	V	0.016	300	C3	n/a	1000	bipolar derivation C2-C3	n/a	good	bipolar derivation C2-C3; contact status in the former channels.tsv: C2 good, C3 good
-POL C3-C4	ECOG	V	0.016	300	C4	n/a	1000	bipolar derivation C3-C4	n/a	good	bipolar derivation C3-C4; contact status in the former channels.tsv: C3 good, C4 good
-POL C4-C5	ECOG	V	0.016	300	C5	n/a	1000	bipolar derivation C4-C5	n/a	good	bipolar derivation C4-C5; contact status in the former channels.tsv: C4 good, C5 good
-POL C5-C6	ECOG	V	0.016	300	C6	n/a	1000	bipolar derivation C5-C6	n/a	bad	bipolar derivation C5-C6; contact status in the former channels.tsv: C5 good, C6 bad
-POL C6-C7	ECOG	V	0.016	300	C7	n/a	1000	bipolar derivation C6-C7	n/a	bad	bipolar derivation C6-C7; contact status in the former channels.tsv: C6 bad, C7 bad
-POL C7-C8	ECOG	V	0.016	300	C8	n/a	1000	bipolar derivation C7-C8	n/a	bad	bipolar derivation C7-C8; contact status in the former channels.tsv: C7 bad, C8 bad
-POL DC01	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
-POL DC02	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL C1-C2	ECOG	μV	0.016	300	C2	n/a	1000	bipolar derivation C1-C2	n/a	good	bipolar derivation C1-C2; contact status in the former channels.tsv: C1 good, C2 good
+POL C2-C3	ECOG	μV	0.016	300	C3	n/a	1000	bipolar derivation C2-C3	n/a	good	bipolar derivation C2-C3; contact status in the former channels.tsv: C2 good, C3 good
+POL C3-C4	ECOG	μV	0.016	300	C4	n/a	1000	bipolar derivation C3-C4	n/a	good	bipolar derivation C3-C4; contact status in the former channels.tsv: C3 good, C4 good
+POL C4-C5	ECOG	μV	0.016	300	C5	n/a	1000	bipolar derivation C4-C5	n/a	good	bipolar derivation C4-C5; contact status in the former channels.tsv: C4 good, C5 good
+POL C5-C6	ECOG	μV	0.016	300	C6	n/a	1000	bipolar derivation C5-C6	n/a	bad	bipolar derivation C5-C6; contact status in the former channels.tsv: C5 good, C6 bad
+POL C6-C7	ECOG	μV	0.016	300	C7	n/a	1000	bipolar derivation C6-C7	n/a	bad	bipolar derivation C6-C7; contact status in the former channels.tsv: C6 bad, C7 bad
+POL C7-C8	ECOG	μV	0.016	300	C8	n/a	1000	bipolar derivation C7-C8	n/a	bad	bipolar derivation C7-C8; contact status in the former channels.tsv: C7 bad, C8 bad
+POL DC01	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL DC02	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a

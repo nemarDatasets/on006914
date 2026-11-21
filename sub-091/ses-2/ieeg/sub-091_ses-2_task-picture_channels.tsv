@@ -1,4 +1,4 @@
 name	type	units	low_cutoff	high_cutoff	reference	group	sampling_frequency	description	notch	status	status_description
-POL A40-A48	ECOG	V	0.016	300	A48	n/a	1000	bipolar derivation A40-A48	n/a	bad	bipolar derivation A40-A48; contact status in the former channels.tsv: A40 bad, A48 bad
-POL DC01	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
-POL DC02	MISC	V	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL A40-A48	ECOG	μV	0.016	300	A48	n/a	1000	bipolar derivation A40-A48	n/a	bad	bipolar derivation A40-A48; contact status in the former channels.tsv: A40 bad, A48 bad
+POL DC01	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
+POL DC02	MISC	μV	n/a	n/a	n/a	n/a	1000	n/a	n/a	n/a	n/a
